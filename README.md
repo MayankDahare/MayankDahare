@@ -1,55 +1,63 @@
 <h1 align="center">Hi 👋, I'm Mayank Dahare</h1>
 
-<h3 align="center">
-MERN Stack Developer focused on building scalable backend systems and production ready web applications
-</h3>
-
----
-
-## 👨‍💻 About Me
-
 <p align="center">
-I build real-world full stack applications with clean backend architecture,
-authentication systems, and scalable APIs.
-Focused on writing production-ready code, not tutorial projects.
+<b>MERN Stack Developer | Backend Focused | Building Scalable Web Applications</b>
 </p>
 
----
+<br/>
 
-## 🚀 Tech Stack
-
-### 💻 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css" />
-</p>
-
-### ⚙️ Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### 🛠 Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
----
-
-## 📈 GitHub Stats
+<h2 align="center">About Me</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MayankDahare&show_icons=true&theme=tokyonight&hide_border=true" />
+I build real world full stack applications with strong backend logic,
+clean API architecture, and production ready structure.
+Focused on solving problems, not just completing tutorials.
+</p>
+
+<br/>
+
+<h2 align="center">Languages & Tools</h2>
+
+<br/>
+
+<h3 align="center">Frontend</h3>
+
+<p align="center">
+React &nbsp;&nbsp; JavaScript &nbsp;&nbsp; HTML &nbsp;&nbsp; CSS
+</p>
+
+<br/>
+
+<h3 align="center">Backend</h3>
+
+<p align="center">
+NodeJS &nbsp;&nbsp; ExpressJS &nbsp;&nbsp; MongoDB
+</p>
+
+<br/>
+
+<h3 align="center">Tools</h3>
+
+<p align="center">
+Git &nbsp;&nbsp; GitHub &nbsp;&nbsp; Postman &nbsp;&nbsp; VS Code
+</p>
+
+<br/>
+
+<h2 align="center">GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MayankDahare&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankDahare&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankDahare&layout=compact&theme=dark&hide_border=true" />
 </p>
 
----
+<br/>
 
-## 🎯 Current Focus
+<h2 align="center">Connect With Me</h2>
 
-- Building scalable MERN applications
-- Improving backend architecture
-- Writing cleaner APIs
-- Preparing for backend/full stack roles
+<p align="center">
+LinkedIn &nbsp;&nbsp; | &nbsp;&nbsp; Portfolio &nbsp;&nbsp; | &nbsp;&nbsp; Email
+</p>
